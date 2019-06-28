@@ -1,0 +1,12 @@
+scrapy crawl ccn.com > .1tmp.log 2>&1 &
+scrapy crawl bitcoinist.com > .2tmp.log 2>&1 &
+scrapy crawl bitcoinmagazine.com > .3tmp.log 2>&1 &
+scrapy crawl btcmanager.com > .4tmp.log 2>&1 &
+scrapy crawl cointelegraph > .5tmp.log 2>&1 &
+scrapy crawl investing.com > .6tmp.log 2>&1 &
+scrapy crawl news.bitcoin.com > .7tmp.log 2>&1 &
+scrapy crawl themerkle.com > .8tmp.log 2>&1 &
+scrapy crawl www.coindesk.com > .9tmp.log 2>&1 &
+scrapy crawl cnbc.com > .10tmp.log 2>&1 &
+scrapy crawl cryptodaily.co.uk > .11tmp.log 2>&1 &
+scrapy crawl coingeek.com > .12tmp.log 2>&1 &
